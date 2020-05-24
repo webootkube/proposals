@@ -2,7 +2,7 @@
 
 As any other collaborative project, we want to draft some proposals before
 producing code so that we can have some kind of common guidelines to understand
-what we nede and what are the components of wbk.
+what we need and what are the components of wbk.
 
 The main idea behind this repository is to collect ideas and proposals
 around a new operating system focused on security and with the
